@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siddharth Jain
-- 👀 I’m interested in embeddeed systems, controls and bio-inspired robotics
+- 👀 I’m interested in embedded systems, robotics and bio-inspired robotics
 - 🌱 I’m currently learning robotics and autonomous systems
 - 💞️ I’m looking to collaborate on embedded system projects
 - 📫 contact me via email tellsiddh@asu.edu
